@@ -96,7 +96,7 @@
     width: 13px;
     height: 8px;
     margin-left: 10px;
-    background-image: url("../assets/icons/down-arrow.jpg");
+    background-image: url("./assets/icons/da.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -129,7 +129,7 @@
     height: 200px;
     margin: 0 auto;
     margin-bottom: 50px;
-    background-image: url('/assets/img/bitcoin.jpg');
+    background-image: url('./assets/img/btc.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
